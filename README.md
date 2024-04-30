@@ -1,8 +1,6 @@
 # New-York-Licenses-Types-and-Number-of-Applicants-Dashboard--Qlik
 
 
-# New York Business License Dashboard
-
 ## Overview
 This project utilizes Power BI to create an interactive dashboard visualizing the number of business licenses filed in New York City. The dashboard provides insights into the distribution of business licenses over the years and across different industry types.
 
@@ -13,7 +11,7 @@ This project utilizes Power BI to create an interactive dashboard visualizing th
 - **Visual Representations**: Utilizes intuitive visualizations such as bar charts and pie charts for easy understanding of data.
 
 ## Data Sources
-The data used in this project is sourced from [insert data source].
+https://www.superdatascience.com/pages/qliksense-adv (NY_licence_applications.QVD)
 
 ## Dashboard Preview
 ![2024-04-29](https://github.com/King-Engineer-Programmer/New-York-Licenses-Types-and-Number-of-Applicants-Dashboard--Qlik/assets/115958140/270a5c6f-df86-4ade-87c8-8afdb7f280e4)
