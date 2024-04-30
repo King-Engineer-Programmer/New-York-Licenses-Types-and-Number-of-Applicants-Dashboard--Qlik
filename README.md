@@ -1,0 +1,1 @@
+# New-York-Licenses-Types-and-Number-of-Applicants-Dashboard--Qlik
