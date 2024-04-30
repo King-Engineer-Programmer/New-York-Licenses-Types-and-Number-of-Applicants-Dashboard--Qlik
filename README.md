@@ -14,7 +14,8 @@ This project utilizes Power BI to create an interactive dashboard visualizing th
 https://www.superdatascience.com/pages/qliksense-adv (NY_licence_applications.QVD)
 
 ## Dashboard Preview
-![2024-04-29](https://github.com/King-Engineer-Programmer/New-York-Licenses-Types-and-Number-of-Applicants-Dashboard--Qlik/assets/115958140/270a5c6f-df86-4ade-87c8-8afdb7f280e4)
+![2024-04-29-3](https://github.com/King-Engineer-Programmer/New-York-Licenses-Types-and-Number-of-Applicants-Dashboard-Using-Qlik/assets/115958140/25bc8f53-3c73-41d0-9850-bea5d0f3472c)
+
 
 ## How to Use
 To use this dashboard:
