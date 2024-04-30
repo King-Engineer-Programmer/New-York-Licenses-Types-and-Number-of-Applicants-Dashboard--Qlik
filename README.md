@@ -8,7 +8,7 @@ This project utilizes Power BI to create an interactive dashboard visualizing th
 - **Yearly Analysis**: View the trend of business license filings over the years.
 - **Industry-wise Breakdown**: Analyze the distribution of licenses by various industry types.
 - **Interactive Filters**: Filter the data based on year and industry type for deeper insights.
-- **Visual Representations**: Utilizes intuitive visualizations such as bar charts and pie charts for easy understanding of data.
+- **Visual Representations**: Utilizes intuitive visualizations such as bar chart and sunburst chart for easy understanding of data.
 
 ## Data Sources
 https://www.superdatascience.com/pages/qliksense-adv (NY_licence_applications.QVD)
